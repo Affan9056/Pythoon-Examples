@@ -1,1 +1,6 @@
-# Pythoon-Examples
+print("_Calculator for Multiplication")
+ x=int(input("Enter the first number:"))
+ y=int(input("Enter your second number:"))
+z=int(x*y)
+print("Your answer is:",z)
+print("")
